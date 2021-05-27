@@ -1,4 +1,4 @@
-import '../App.css';
+import '../App.scss';
 import React from 'react';
 import OptionsList from '../Data/Options.json';
 
