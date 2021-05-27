@@ -1,0 +1,86 @@
+.Options > a {
+  background: #FFFFFF;
+  border: 7px solid #FFDCBC;
+  border-right: #fff;
+  border-radius: 45px 0px 0px 45px;
+  box-shadow: 0px 15px 15px rgba(255, 220, 188, 0.25);
+  margin: 5px 0px;
+  padding: 18px;
+  text-decoration: none;
+
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+
+  color: #000000;
+}
+
+.App {
+  /* background-color: blue; */
+  /* background-image: linear-gradient(( rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5) ), url("/Users/addyhebou/Documents/WEBSITES/my-app/src/Video/POP BEAT.mp4")); */
+  margin: 0px;
+  text-align: center;
+  font-size: 10px;
+}
+
+header {
+  margin: 14px 0px;
+  width: 10rem;
+}
+
+h1, h2{
+  color: white;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin: 0%;
+}
+
+h1{
+  font-size: 5em;
+}
+
+h2{
+  font-size: 1rem;
+}
+
+.Options {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 0rem 0rem 10rem;
+  right: 0;
+}
+
+.SocialGrid{
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: column;
+  right: 0;
+  position: absolute;
+  margin-right: 3rem;
+}
+
+
+
+.SocialGrid > div > img {
+  margin: 0.2rem 0rem;
+}
+
+.Subtitle {
+  align-items: center;
+  /* background-color: green; */
+  display: flex;
+  justify-content: center;
+  margin: 0px 90px;
+}
+
+.Subtitle > h2 {
+  margin: 0px 8px;
+}
+
+/* video {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+  rgba(0, 0, 0, 0.5));
+} */
