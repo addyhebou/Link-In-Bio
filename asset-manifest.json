@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Link-In-Bio/static/css/main.fa6094e1.chunk.css",
-    "main.js": "/Link-In-Bio/static/js/main.57611f0e.chunk.js",
-    "main.js.map": "/Link-In-Bio/static/js/main.57611f0e.chunk.js.map",
+    "main.css": "/Link-In-Bio/static/css/main.4bff8d03.chunk.css",
+    "main.js": "/Link-In-Bio/static/js/main.5699335d.chunk.js",
+    "main.js.map": "/Link-In-Bio/static/js/main.5699335d.chunk.js.map",
     "runtime-main.js": "/Link-In-Bio/static/js/runtime-main.f568935b.js",
     "runtime-main.js.map": "/Link-In-Bio/static/js/runtime-main.f568935b.js.map",
     "static/js/2.0a86d59a.chunk.js": "/Link-In-Bio/static/js/2.0a86d59a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a38bc24e.chunk.js": "/Link-In-Bio/static/js/3.a38bc24e.chunk.js",
     "static/js/3.a38bc24e.chunk.js.map": "/Link-In-Bio/static/js/3.a38bc24e.chunk.js.map",
     "index.html": "/Link-In-Bio/index.html",
-    "static/css/main.fa6094e1.chunk.css.map": "/Link-In-Bio/static/css/main.fa6094e1.chunk.css.map",
+    "static/css/main.4bff8d03.chunk.css.map": "/Link-In-Bio/static/css/main.4bff8d03.chunk.css.map",
     "static/js/2.0a86d59a.chunk.js.LICENSE.txt": "/Link-In-Bio/static/js/2.0a86d59a.chunk.js.LICENSE.txt",
     "static/media/BACKGROUND.b2763789.mp4": "/Link-In-Bio/static/media/BACKGROUND.b2763789.mp4",
     "static/media/IG White Logo.53e1e48e.svg": "/Link-In-Bio/static/media/IG White Logo.53e1e48e.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.f568935b.js",
     "static/js/2.0a86d59a.chunk.js",
-    "static/css/main.fa6094e1.chunk.css",
-    "static/js/main.57611f0e.chunk.js"
+    "static/css/main.4bff8d03.chunk.css",
+    "static/js/main.5699335d.chunk.js"
   ]
 }
