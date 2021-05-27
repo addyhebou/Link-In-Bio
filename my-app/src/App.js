@@ -13,7 +13,7 @@ function App() {
         <video id = "vid" loop= "true" autoplay= "autoplay" muted 
           style = {{
             position: "absolute",
-            width: "auto",
+            width: "100%",
             left: "50%",
             top: "50%",
             height: "150%",
